@@ -9,6 +9,6 @@ int main() {
     m1.emplace(2, "doshi");
 
     for (const auto& [key, value] : m1) {
-        cout << "Key: " << key << " | Value: " << value << '\n';
+        cout << "Key: " << key << "  Value: " << value << '\n';
     }
 }
