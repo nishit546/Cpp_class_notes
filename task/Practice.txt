@@ -1,0 +1,20 @@
+Operator: Add
+A: 10 B: 20
+Result: 30
+-----------------------
+Operator: Sub
+A: 50 B: 10
+Result: 40
+-----------------------
+Operator: Mul
+A: 5 B: 6
+Result: 30
+-----------------------
+Operator: Div
+A: 20 B: 4
+Result: 5
+-----------------------
+Operator: Add
+A: 1 B: 2
+Result: 3
+-----------------------

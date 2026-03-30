@@ -38,7 +38,7 @@ class Poly{
              --a1;
              --b1;
              cout << this->a1 << " and" << this->b1 << endl;
-         }
+         } 
     
        void add(int a, int b){
            cout << "Addition of two number is: " << a+b << endl;
